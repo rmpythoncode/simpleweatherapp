@@ -1,10 +1,10 @@
 # simpleweatherapp
 
-A new Flutter project.
+Simple Dart/Flutter Frontend for a weather app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Just clone project and start it in your emulator
 
 A few resources to get you started if this is your first Flutter project:
 
